@@ -1,3 +1,5 @@
+### Sentiment Analysis of Twitter Users Towards the Israel Palestine Conflict
+
 This project employs sentiment analysis and machine learning models to gauge English-speaking Twitter users'
 sentiments toward the Israel-Palestine conflict. Utilizing the Octoparse API, tweets were scraped under hashtags
 such as #IsraelPalestineConflict, #ProIsrael, #ProPalestine, etc. from October 7, 2023 (the date of the Hamas attack),
